@@ -1,0 +1,11 @@
+#apply{
+    color: white;
+    background-color: rgb(42, 149, 165);
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.form-group{
+    max-width: 900px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
